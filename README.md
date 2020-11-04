@@ -22,10 +22,13 @@ Notebooks to refer to:
 ![word_count_bar_graphs](https://user-images.githubusercontent.com/44031998/98063728-b3d70f00-1e1e-11eb-8235-44ffce4a5180.png)
 - Fake news and Real news have similiar word usage however some differences are shown. 
 
+
 - Real news wordcloud
+
 ![real_wordcloud](https://user-images.githubusercontent.com/44031998/98063782-d23d0a80-1e1e-11eb-9859-5436b2a1113f.png)
 
 - Fake news wordcloud
+
 ![fake_wordcloud](https://user-images.githubusercontent.com/44031998/98063821-ebde5200-1e1e-11eb-87f3-e732f8938747.png)
 
 
