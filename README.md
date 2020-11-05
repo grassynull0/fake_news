@@ -13,14 +13,17 @@ Notebooks to refer to:
 - For EDA and csv compilation refer to: ```eda_and_cleaning.ipynb```
 - For the model process along with visualizations refer to: ```NLP_modeling.ipynb```
 
-### Observations
+#### Model Process
 ---
-- The best model was a passive aggressive classifier that had a 97% accuracy. Here is the confusion matrix:
+- The best model was a passive aggressive classifier that had a 97% accuracy.
+- Accuracy was used to achieve the best overall performance of the model due to the even class balance that the data came with. 
+- 
 ![model_confusion_matrix](https://user-images.githubusercontent.com/44031998/98063901-1203f200-1e1f-11eb-916f-f44b447174b2.png)
 
-- Word count bar graphs 
+#### Word count bar graphs 
+- Fake news and Real news have similiar word usage however some differences are shown e.g., true news' most used word was 'said' which implies that those news outlets use direct quotes of the people they report about. In constrast fake news cannot rely on direct quotes often times and instead paraphrase or use other inflammatory words to distract the reader. 
 ![word_count_bar_graphs](https://user-images.githubusercontent.com/44031998/98063728-b3d70f00-1e1e-11eb-8235-44ffce4a5180.png)
-- Fake news and Real news have similiar word usage however some differences are shown. 
+
 
 
 - Real news wordcloud
