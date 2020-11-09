@@ -9,6 +9,10 @@ __pycache__/
 # csvs 
 *.csv
 
+# pickle models
+*.pkl
+**/*.pkl
+
 # Distribution / packaging
 .Python
 build/
