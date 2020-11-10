@@ -1,4 +1,4 @@
-# Work here has been moved to fake_news_classification [Link to Repo](github.com/saltaro/fake_news_classifier)
+# Work here has been moved to fake_news_classifier [Link to Repo](https://github.com/saltaro/fake_news_classifier/)
 
 
 
