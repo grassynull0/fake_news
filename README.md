@@ -1,4 +1,8 @@
-# Fake News Classification with a Flask Front End
+# Work here has been moved to fake_news_classification [Link to Repo](github.com/saltaro/fake_news_classifier)
+
+
+
+#### Fake News Classification with a Flask Front End
 ----
 #### by Ben Inoyatov
 
